@@ -1,0 +1,77 @@
+/*CSS DOCUMENT*/
+@import url("https://use.typekit.net/erh2uyp.css");
+
+body {
+    background-color: #F5F5F5;
+}
+
+h1 {
+    color: #DE3000;
+    font-size: 3em; 
+    font-family: bebas-neue;
+    font-weight: 600;
+    letter-spacing: 2px;
+    margin: .80em 0em 0em .80em;
+}
+
+h2 {
+    color: #707070;
+    font-size: 1.25em;
+    font-family: source-serif-pro;
+    font-style: italic;
+    font-weight: 300;
+    margin: .25em 0em 0em 2em;   
+}
+
+h3 {
+    color: #E58402;
+    font-size: 1.25em;
+    font-kerning:normal;
+    font-family: source-sans-pro;
+    font-weight: 700;
+    margin: 0em 0em -.5em 2em;
+    text-transform: uppercase;  
+}
+
+h6 {
+    color: #E58402;
+    font-size: 1em;
+    font-kerning:normal;
+    font-family: source-sans-pro;
+    font-weight: 400;
+    font-style: italic;
+    margin: 0em 0em 0em 2.65em;
+}
+
+li{ 
+    color: #707070;
+    font-family: source-sans-pro;
+    font-size: 1em;
+    font-weight: 200;
+    margin: 0em 2.65em 0em 2.65em;
+}
+
+ul {
+    padding:0em 2.65em 0em 1em;
+    color: rgb(255,255,255);
+    font-family: sans-serif;
+}
+
+ol {
+    padding:0em 2.65em 0em 1em;
+    color: rgb(255,255,255);
+    font-family: sans-serif;
+}
+
+figcaption {
+    color: #707070;
+    font-family: source-sans-pro;
+    font-size: 0.75em;
+    font-weight: 200;
+}
+
+img {
+    width: 100%; /*Please leave this line.*/   
+}
+
+/*By the way, when we use the slash-asterisk combo, it’s a comment on the CSS and it’s meant for human beings. The machine knows it is not supposed to process anything until it finds a asterisk-slash combo that ends the comment on the CSS. */
