@@ -1,0 +1,119 @@
+/*CSS document*/
+@import url("https://use.typekit.net/fgb3uic.css");
+
+body {
+    background-color: #fef2d8;
+    font-family: neue-haas-grotesk-text, sans-serif;
+}
+
+div.container {
+    max-width: 40em;
+    margin: auto;
+}
+
+img{
+    width: 100%;   
+}
+
+nav ul li {
+    display: inline;
+    margin-right: .75em;
+    padding-bottom: 2em;
+    font-family: neue-haas-grotesk-text, sans-serif;
+    font-weight: 700;
+}
+
+nav ul li a{
+    color: #444444;
+    text-decoration: none;
+}
+
+nav ul li a:hover {
+    border-bottom: .25em solid #fabc3c;
+}
+
+a{
+    text-decoration-line: none;
+    color: #333333;
+}
+
+h1 {
+    width: 70%;
+    font-family: meno-banner-condensed, serif;
+    font-weight: 600;
+}
+
+h2, h3{
+    color: #dc3f2e;
+    font-size: 1.75em;
+    font-family: meno-banner-condensed, serif;
+    font-weight: 800;
+}
+
+h3:hover{
+    text-decoration: underline .1em;
+    text-decoration-color: #fabc3c;
+}
+
+h3.morestories{
+    color: #444444;
+    font-size: 1.5em;
+    font-family: meno-banner-condensed, serif;
+    font-weight: 800;   
+}
+
+h3.morestories:hover{
+    text-decoration: underline .1em;
+    text-decoration-color: #88daca;
+}
+
+h4{
+    color: #444444;
+    font-size: 1.5em;
+    font-family: neue-haas-grotesk-text, sans-serif;
+    font-weight: 700;
+}
+
+h5{
+    color: #444444;
+    font-size: 1.25em;
+    font-family: neue-haas-grotesk-text, sans-serif;
+    font-weight: 700;
+
+}
+
+p {
+    color: #444444;
+    font-size: 1em;
+    font-kerning:normal;
+    font-family: neue-haas-grotesk-text, sans-serif;
+    font-weight: 400;
+    margin-bottom: 2.5em;
+}
+
+figcaption {
+    color: #444444;
+    font-family: neue-haas-grotesk-text, sans-serif;
+    font-size: 0.75em;
+    font-weight: 400;
+    margin: 0em 0em 1em 0em;
+}
+
+figcaption a{
+    text-decoration: underline .0625em;
+    text-decoration-color: #444444;
+}
+
+figure {
+    margin: 0;
+}
+
+ul {
+    list-style-type: none;
+    padding: 0;
+}
+
+hr{
+    border: .125em solid #fabc3c;
+    margin-bottom: 2.75em;
+}
