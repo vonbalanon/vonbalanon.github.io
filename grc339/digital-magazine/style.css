@@ -18,7 +18,6 @@ section{
 
 img{
     width: 100%; 
-    margin: .25em 0 0 0;
 }
 
 nav ul li {
@@ -88,6 +87,7 @@ h4{
     font-size: 1.5em;
     font-family: neue-haas-grotesk-text, sans-serif;
     font-weight: 700;
+    margin: .75em 0 .75em 0;
 }
 
 h5{
@@ -95,6 +95,7 @@ h5{
     font-size: 1.25em;
     font-family: neue-haas-grotesk-text, sans-serif;
     font-weight: 700;
+    margin: 1em 0 1em 0;
 
 }
 
@@ -117,13 +118,12 @@ p.byline{
     text-decoration: underline .1em;
 }
 
-}
 figcaption {
     color: #444444;
     font-family: neue-haas-grotesk-text, sans-serif;
-    font-size: 0.75em;
+    font-size: .85em;
     font-weight: 400;
-    margin: 0em 0em 1em 0em;
+
 }
 
 figcaption a{
