@@ -62,7 +62,7 @@ h3{
     font-size: 1.75em;
     font-family: meno-banner-condensed, serif;
     font-weight: 800;
-    margin-bottom: .25em;
+    margin: .75em 0 .25em 0;
 }
 
 h3:hover{
@@ -193,7 +193,7 @@ hr{
     
     section.mainstory h3 {
         flex: 0 0 auto;
-        margin: 1em 0em .25em 0em;
+        margin: .75em 0em .25em 0em;
     }
     
     section.mainstory p{
